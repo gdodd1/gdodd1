@@ -3,9 +3,9 @@
 I am a Computer Science student at the [University of North Alabama](una.edu).  
 Currently studying:  
 
-- [Artificial Intelligence](github.com/gdodd1/CS-470)  
-- [Secure Software Development](github.com/gdodd1/ITE-379)
-- [Front End Web Development](https://github.com/gdodd1/CIS-376)
+- [Artificial Intelligence](https://www.github.com/gdodd1/CS-470)  
+- [Secure Software Development](htttps://www.github.com/gdodd1/ITE-379)
+- [Front End Web Development](https://www.github.com/gdodd1/CIS-376)
   
 ***
 [![Linkedin Badge](https://img.shields.io/badge/-garrettdodd1-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/garrett-dodd/)](https://www.linkedin.com/in/garrett-dodd/)
