@@ -4,7 +4,7 @@ I am a Computer Science student at the [University of North Alabama](una.edu).
 Currently studying:  
 
 - [Artificial Intelligence](https://www.github.com/gdodd1/CS-470)  
-- [Secure Software Development](htttps://www.github.com/gdodd1/ITE-379)
+- [Secure Software Development](https://github.com/gdodd1/ITE-379)
 - [Front End Web Development](https://www.github.com/gdodd1/CIS-376)
   
 ***
