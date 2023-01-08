@@ -1,6 +1,6 @@
 # Garrett Dodd  
 
-I am a Computer Science student at the [University of Tennessee - Chattanooga](utc.edu).  
+I am a Computer Science student at the [University of Tennessee - Chattanooga](https://www.utc.edu).  
 Currently studying:  
 
 TBD
