@@ -3,7 +3,7 @@
 I am a Computer Science student at the [University of Tennessee - Chattanooga](https://www.utc.edu).  
 Currently studying:  
 
-TBD
+Operating Systems
   
 ***
 [![Linkedin Badge](https://img.shields.io/badge/-garrettdodd1-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/garrett-dodd/)](https://www.linkedin.com/in/garrett-dodd/)
