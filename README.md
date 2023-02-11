@@ -3,7 +3,13 @@
 I am a Computer Science: Software Systems student at the [University of Tennessee - Chattanooga](https://www.utc.edu).  
 Currently studying:  
 
-[Operating Systems](https://github.com/gdodd1/CPSC-2800)
+[Operating Systems](https://github.com/gdodd1/CPSC-2800)  
+
+## Current Project:
+
+[Food Finder](https://github.com/gdodd1/FoodFinder) - Next.js web app developed by the ICAM interns at TVA. Recommends restraunts in your city! Developed entirely on AWS.  
+  
+Developed with [Brian Nguyen](https://github.com/the-brain711), [Alex Nguyen](https://github.com/bolophil), and [Alex Byars](https://github.com/Byars98)
   
 ***
 [![Linkedin Badge](https://img.shields.io/badge/-garrettdodd1-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/garrett-dodd/)](https://www.linkedin.com/in/garrett-dodd/)
