@@ -17,7 +17,6 @@ ReactJS portfolio with a 90's retro theme because we both know it looks cool
   
 ***
 [![Linkedin Badge](https://img.shields.io/badge/-garrettdodd1-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/garrett-dodd/)](https://www.linkedin.com/in/garrett-dodd/)
-[![Instagram Badge](https://img.shields.io/badge/-garrettdodd1-purple?style=flat-square&logo=instagram&logoColor=white&link=https://instagram.com/garrettdodd1/)](https://instagram.com/garrettdodd1)
 [![Gmail Badge](https://img.shields.io/badge/-garrettdodd03@gmail.com-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:garrettdodd03@gmail.com)](mailto:garrettdodd03@gmail.com)
 ***
 
